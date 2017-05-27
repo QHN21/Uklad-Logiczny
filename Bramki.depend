@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1495809794 source:d:\users\dell\documents\code blocks\bramki\main.cpp
+	<iostream>
+	<string.h>
+	"Menu.h"
+
+1495462493 d:\users\dell\documents\code blocks\bramki\bramka.h
+
+1495903713 d:\users\dell\documents\code blocks\bramki\wejscie.h
+	<iostream>
+
+1495895884 d:\users\dell\documents\code blocks\bramki\wyjscie.h
+	<iostream>
+	"wejscie.h"
+
+1495543405 d:\users\dell\documents\code blocks\bramki\and.h
+
+1495462493 d:\users\dell\documents\code blocks\bramki\or.h
+
+1495584565 source:d:\users\dell\documents\code blocks\bramki\wejscie.cpp
+	"wejscie.h"
+
+1495902672 source:d:\users\dell\documents\code blocks\bramki\wyjscie.cpp
+	"wyjscie.h"
+
+1495585828 source:d:\users\dell\documents\code blocks\bramki\and.cpp
+	"Bramki.h"
+
+1495894302 d:\users\dell\documents\code blocks\bramki\bramki.h
+	"wyjscie.h"
+	<queue>
+
+1495585828 source:d:\users\dell\documents\code blocks\bramki\nand.cpp
+	"Bramki.h"
+
+1495585828 source:d:\users\dell\documents\code blocks\bramki\nor.cpp
+	"Bramki.h"
+
+1495585828 source:d:\users\dell\documents\code blocks\bramki\or.cpp
+	"Bramki.h"
+
+1495820007 source:d:\users\dell\documents\code blocks\bramki\bramka.cpp
+	"Bramki.h"
+
+1495569706 source:d:\users\dell\documents\code blocks\bramki\urz_wejscia.cpp
+	"urzadzenia.h"
+
+1495888420 d:\users\dell\documents\code blocks\bramki\urzadzenia.h
+	<vector>
+	<fstream>
+	"Bramki.h"
+
+1495587006 source:d:\users\dell\documents\code blocks\bramki\not.cpp
+	"Bramki.h"
+
+1495587034 source:d:\users\dell\documents\code blocks\bramki\xor.cpp
+	"Bramki.h"
+
+1495618626 source:d:\users\dell\documents\code blocks\bramki\generator.cpp
+	"urzadzenia.h"
+
+1495818848 source:d:\users\dell\documents\code blocks\bramki\oscyloskop.cpp
+	"urzadzenia.h"
+
+1495888566 source:d:\users\dell\documents\code blocks\bramki\przycisk.cpp
+	"urzadzenia.h"
+
+1495903692 source:d:\users\dell\documents\code blocks\bramki\urz_wyjscia.cpp
+	"urzadzenia.h"
+
+1495818686 source:d:\users\dell\documents\code blocks\bramki\wyswietlacz.cpp
+	"urzadzenia.h"
+
+1495908799 d:\users\dell\documents\code blocks\bramki\menu.h
+	<iostream>
+	<string.h>
+	"urzadzenia.h"
+	<vector>
+	<queue>
+
+1495817667 source:d:\users\dell\documents\code blocks\bramki\bramki.cpp
+	"Bramki.h"
+
+1495909340 source:d:\users\dell\documents\code blocks\bramki\menu.cpp
+	"Menu.h"
+
